@@ -6,6 +6,10 @@
     import Footer from '$lib/components/footer.svelte';
 </script>
 
+<svelte:head>
+    <title>Bear & Sheep Co.</title>
+</svelte:head>
+
 <main>
     <slot />
 </main>
