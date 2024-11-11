@@ -3,7 +3,7 @@ import { sendMail } from '$lib/mail/config';
 
 export const POST: RequestHandler = async ({ request }) => {
     const body = await request.json();
-        const formattedMessage = `${body.message}.\n\nMessage sent from ${body.email}`;
+        const formattedMessage = `${body.message}.\n\nMessage sent from ${body.name} - ${body.email}`;
 
     try {
         await sendMail(
