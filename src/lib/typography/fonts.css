@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "DolphinsLight";
+    src: url('./DolphinsLight/font.woff2') format('woff2'), url('./DolphinsLight/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "DolphinsItalic";
+    src: url('./DolphinsItalic/font.woff2') format('woff2'), url('./DolphinsItalic/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "DolphinsBoldItalic";
+    src: url('./DolphinsBoldItalic/font.woff2') format('woff2'), url('./DolphinsBoldItalic/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "DolphinsSemiBoldItalic";
+    src: url('./DolphinsSemiBoldItalic/font.woff2') format('woff2'), url('./DolphinsSemiBoldItalic/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "DolphinsBold";
+    src: url('./DolphinsBold/font.woff2') format('woff2'), url('./DolphinsBold/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "DolphinsLightItalic";
+    src: url('./DolphinsLightItalic/font.woff2') format('woff2'), url('./DolphinsLightItalic/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "DolphinsRegular";
+    src: url('./DolphinsRegular/font.woff2') format('woff2'), url('./DolphinsRegular/font.woff') format('woff');
+}
+
+@font-face {
+    font-family: "DolphinsSemiBold";
+    src: url('./DolphinsSemiBold/font.woff2') format('woff2'), url('./DolphinsSemiBold/font.woff') format('woff');
+}
